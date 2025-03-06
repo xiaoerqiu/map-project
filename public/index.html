@@ -4,41 +4,95 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>地图标绘系统</title>
-    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/antd.css">
+    <link rel="stylesheet" href="./css/custom.css">
     <!-- 百度地图API -->
     <script type="text/javascript" src="https://api.map.baidu.com/api?v=3.0&ak=gs3yvswcNTXmqZcUWPPILcdGzQRNs7y2"></script>
+    <!-- Ant Design -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/17.0.2/umd/react.production.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/17.0.2/umd/react-dom.production.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/antd/4.24.14/antd.min.js"></script>
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1>地图标绘系统</h1>
+    <div class="ant-layout">
+        <header class="ant-layout-header">
+            <div class="ant-page-header">
+                <h1 style="margin: 0;">地图标绘系统</h1>
+            </div>
         </header>
         
-        <div class="upload-section">
-            <h2>上传Excel文件</h2>
-            <p>请上传包含地址信息的Excel文件（必须包含address列）</p>
-            <div class="download-sample">
-                <a href="./examples/sample.xlsx" download>下载示例Excel文件</a>
-            </div>
-            <form id="upload-form" enctype="multipart/form-data">
-                <div class="file-input-container">
-                    <input type="file" id="excel-file" name="file" accept=".xlsx,.xls">
-                    <button type="button" id="upload-btn">上传并解析</button>
-                </div>
-            </form>
-            <div id="upload-status"></div>
-        </div>
-        
-        <div class="content">
-            <div class="map-container">
-                <div id="map"></div>
+        <main class="ant-layout-content">
+            <div class="map-section">
+                <div id="map-container"></div>
             </div>
             
-            <div class="data-list">
-                <h3>地址列表</h3>
-                <div id="address-list"></div>
+            <div class="sidebar">
+                <div class="upload-section">
+                    <div class="ant-collapse">
+                        <div class="ant-collapse-item">
+                            <div class="ant-collapse-header" role="button" tabindex="0" aria-expanded="false">
+                                <span class="ant-collapse-arrow"><svg viewBox="64 64 896 896" focusable="false" data-icon="right" width="1em" height="1em" fill="currentColor" aria-hidden="true"><path d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"></path></svg></span>
+                                上传Excel文件
+                            </div>
+                            <div class="ant-collapse-content ant-collapse-content-inactive">
+                                <div class="ant-collapse-content-box">
+                                    <p>请上传包含地址信息的Excel文件（必须包含address列）</p>
+                                    <div class="download-sample">
+                                        <a href="./examples/sample.xlsx" class="ant-btn ant-btn-link" download>下载示例Excel文件</a>
+                                    </div>
+                                    <form id="upload-form" enctype="multipart/form-data">
+                                        <div class="ant-upload ant-upload-select">
+                                            <input type="file" id="excel-file" name="file" accept=".xlsx,.xls" style="display: none;">
+                                            <button type="button" class="ant-btn ant-btn-primary" id="upload-btn">选择文件并上传</button>
+                                        </div>
+                                    </form>
+                                    <div id="upload-status" class="ant-alert ant-alert-info" style="margin-top: 16px; display: none;"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="address-list-container">
+                    <div class="ant-card">
+                        <div class="ant-card-head">
+                            <div class="ant-card-head-title">地址列表</div>
+                        </div>
+                        <div class="ant-card-body">
+                            <ul class="address-list ant-list ant-list-split" id="address-list"></ul>
+                            <div class="pagination">
+                                <div class="ant-pagination ant-pagination-simple">
+                                    <button class="ant-pagination-prev" id="prev-page" disabled>
+                                        <span class="ant-pagination-item-link" aria-label="上一页">
+                                            <span role="img" aria-label="left" class="anticon anticon-left">
+                                                <svg viewBox="64 64 896 896" focusable="false" data-icon="left" width="1em" height="1em" fill="currentColor" aria-hidden="true">
+                                                    <path d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 000 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"></path>
+                                                </svg>
+                                            </span>
+                                        </span>
+                                    </button>
+                                    <div class="ant-pagination-simple-pager">
+                                        <input type="text" size="3" id="current-page" value="1">
+                                        <span class="ant-pagination-slash">/</span>
+                                        <span id="total-pages">5</span>
+                                    </div>
+                                    <button class="ant-pagination-next" id="next-page" disabled>
+                                        <span class="ant-pagination-item-link" aria-label="下一页">
+                                            <span role="img" aria-label="right" class="anticon anticon-right">
+                                                <svg viewBox="64 64 896 896" focusable="false" data-icon="right" width="1em" height="1em" fill="currentColor" aria-hidden="true">
+                                                    <path d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"></path>
+                                                </svg>
+                                            </span>
+                                        </span>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-        </div>
+        </main>
     </div>
     
     <script src="./js/main.js"></script>

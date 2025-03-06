@@ -2,11 +2,21 @@ const config = {
     mongodb: {
         uri: process.env.MONGODB_URI || 'mongodb://localhost:27017/map_annotation',
         options: {
-            // MongoDB 7.0+ 默认启用这些选项
-            // 添加超时设置
-            connectTimeoutMS: 10000,
-            socketTimeoutMS: 45000,
-            maxPoolSize: 10
+            // MongoDB 7.0+ 连接配置
+            connectTimeoutMS: 30000,
+            socketTimeoutMS: 60000,
+            serverSelectionTimeoutMS: 30000,
+            heartbeatFrequencyMS: 1000,
+            // 连接池配置
+            maxPoolSize: 50,
+            minPoolSize: 5,
+            maxIdleTimeMS: 30000,
+            // 读写重试
+            retryWrites: true,
+            retryReads: true,
+            // 额外的稳定性配置
+            keepAlive: true,
+            keepAliveInitialDelay: 300000
         }
     },
     server: {

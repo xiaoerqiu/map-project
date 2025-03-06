@@ -7,23 +7,39 @@ const path = require('path');
 const mongoose = require('mongoose');
 const Address = require('./models/address');
 const config = require('./config');
+const logger = require('./utils/logger');
 
 // 连接到 MongoDB
 let isConnected = false;
+let connectionRetries = 0;
+const MAX_RETRIES = 10;
+const INITIAL_RETRY_DELAY = 5000;
+const MAX_RETRY_DELAY = 60000;
+
 const connectWithRetry = () => {
+    // 使用指数退避策略计算重试延迟
+    const retryDelay = Math.min(INITIAL_RETRY_DELAY * Math.pow(2, connectionRetries), MAX_RETRY_DELAY);
+
     mongoose.connect(config.mongodb.uri, config.mongodb.options)
         .then(() => {
-            console.log('MongoDB 连接成功');
+            logger.info('MongoDB 连接成功');
             isConnected = true;
+            connectionRetries = 0;
             // 数据库连接成功后，自动加载数据
             loadInitialData();
         })
         .catch(err => {
-            console.error('MongoDB 连接失败:', err);
+            logger.error('MongoDB 连接失败:', err);
             isConnected = false;
-            // 添加重试机制
-            console.log('5秒后尝试重新连接...');
-            setTimeout(connectWithRetry, 5000);
+            connectionRetries++;
+
+            if (connectionRetries < MAX_RETRIES) {
+                logger.info(`${retryDelay/1000}秒后进行第${connectionRetries}次重试...`);
+                setTimeout(connectWithRetry, retryDelay);
+            } else {
+                logger.error('达到最大重试次数，请检查MongoDB服务是否正常运行');
+                process.exit(1);
+            }
         });
 };
 
@@ -32,12 +48,12 @@ async function loadInitialData() {
     try {
         const addresses = await Address.find().sort({ createdAt: -1 });
         if (addresses.length > 0) {
-            console.log('数据库中已有数据，无需初始化');
+            logger.info('数据库中已有数据，无需初始化');
         } else {
-            console.log('数据库为空，等待数据上传...');
+            logger.info('数据库为空，等待数据上传...');
         }
     } catch (error) {
-        console.error('初始化数据加载失败:', error);
+        logger.error('初始化数据加载失败:', error);
     }
 }
 
@@ -45,13 +61,13 @@ connectWithRetry();
 
 // 监听MongoDB连接状态
 mongoose.connection.on('disconnected', () => {
-    console.log('MongoDB连接断开，尝试重新连接...');
+    logger.warn('MongoDB连接断开，尝试重新连接...');
     isConnected = false;
     connectWithRetry();
 });
 
 mongoose.connection.on('error', (err) => {
-    console.error('MongoDB连接错误:', err);
+    logger.error('MongoDB连接错误:', err);
     isConnected = false;
 });
 
@@ -102,7 +118,7 @@ app.get('/addresses', async (req, res) => {
             data: addresses
         });
     } catch (error) {
-        console.error('获取地址数据失败:', error);
+        logger.error('获取地址数据失败:', error);
         res.status(500).json({ error: '获取地址数据失败' });
     }
 });
@@ -139,7 +155,7 @@ app.post('/upload', upload.single('file'), async (req, res) => {
 
         // 清除旧数据
         await Address.deleteMany({});
-        console.log('已清除旧数据');
+        logger.info('已清除旧数据');
 
         // 直接返回数据
         res.json({
@@ -153,28 +169,28 @@ app.post('/upload', upload.single('file'), async (req, res) => {
             const batch = validData.slice(i, i + batchSize);
             try {
                 await Address.insertMany(batch, { ordered: false });
-                console.log(`成功导入第${i/batchSize + 1}批数据`);
+                logger.info(`成功导入第${i/batchSize + 1}批数据`);
             } catch (dbError) {
-                console.error(`第${i/batchSize + 1}批数据导入失败:`, dbError);
+                logger.error(`第${i/batchSize + 1}批数据导入失败:`, dbError);
             }
         }
 
     } catch (error) {
-        console.error('文件处理错误:', error);
+        logger.error('文件处理错误:', error);
         res.status(500).json({ error: '文件处理失败' });
     }
 });
 
 // 启动服务器
 app.listen(port, () => {
-  console.log(`服务器运行在 http://localhost:${port}`);
+  logger.info(`服务器运行在 http://localhost:${port}`);
 });
 
 // 优雅关闭
 process.on('SIGTERM', () => {
-    console.log('收到 SIGTERM 信号，准备关闭服务...');
+    logger.info('收到 SIGTERM 信号，准备关闭服务...');
     mongoose.connection.close(() => {
-        console.log('MongoDB连接已关闭');
+        logger.info('MongoDB连接已关闭');
         process.exit(0);
     });
 });

@@ -1,0 +1,891 @@
+2025-03-06 14:24:32 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:24:32 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:24:47 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:25:02 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:25:02 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:25:17 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:25:32 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:25:32 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:25:47 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:26:02 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:26:02 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:26:17 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:26:32 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:26:32 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:26:47 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:27:02 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:27:02 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:27:17 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:27:32 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:27:32 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:27:47 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:28:02 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:28:02 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:28:17 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:28:32 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:28:32 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:28:47 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:29:02 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:29:02 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:29:17 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:29:32 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:29:32 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:29:47 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:30:02 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:30:02 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:30:17 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:30:32 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:30:32 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:30:47 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:31:02 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:31:02 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:31:17 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:31:32 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:31:32 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:31:47 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:32:02 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:32:02 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:32:17 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:32:32 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:32:32 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:32:47 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:33:02 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:33:02 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:33:17 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:33:32 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:33:32 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:33:47 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:34:02 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:34:02 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:34:17 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:34:31 [ERROR]: 获取地址数据失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:34:32 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:34:32 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:34:47 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:35:02 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:35:02 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:35:17 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:35:32 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:35:32 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:35:47 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:36:02 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:36:02 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:36:18 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:36:33 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:36:33 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:36:48 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:37:03 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:37:03 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:37:18 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:37:33 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:37:33 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:37:48 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:38:03 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:38:03 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:38:18 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:38:33 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:38:33 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:38:48 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:39:03 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:39:03 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:39:18 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:39:33 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:39:33 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:39:48 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:40:03 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:40:03 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:40:18 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:40:33 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:40:33 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:40:48 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:41:03 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:41:03 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:41:18 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:41:33 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:41:33 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:41:48 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:42:03 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:42:03 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:42:51 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:42:51 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:43:06 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:43:09 [ERROR]: 获取地址数据失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:43:21 [ERROR]: 获取地址数据失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:43:21 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:43:21 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:43:36 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:43:51 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:43:51 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:44:06 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:44:21 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:44:21 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:44:36 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:44:51 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:44:51 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:45:06 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:45:21 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:45:21 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:45:36 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:45:51 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:45:51 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:46:06 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:46:21 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:46:21 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:46:36 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:46:51 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:46:51 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:47:06 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:47:21 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:47:21 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:47:36 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:47:51 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:47:51 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:48:06 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:48:21 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:48:21 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:48:36 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:48:51 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:48:51 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:49:06 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:49:21 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:49:21 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:49:36 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:49:51 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:49:51 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:50:06 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:50:21 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:50:21 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:50:36 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:50:51 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:50:51 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:51:06 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:51:21 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:51:21 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:51:36 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:51:51 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:51:51 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:52:06 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:52:21 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:52:21 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:52:36 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:52:51 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:52:51 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:53:06 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:53:21 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:53:21 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:53:37 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 14:53:51 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 14:53:51 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:01:44 [ERROR]: MongoDB 连接失败: connect ENOBUFS ::1:27017 - Local (undefined:undefined), connect ENOBUFS 127.0.0.1:27017 - Local (undefined:undefined)
+2025-03-06 15:01:44 [ERROR]: MongoDB连接错误: connect ENOBUFS ::1:27017 - Local (undefined:undefined), connect ENOBUFS 127.0.0.1:27017 - Local (undefined:undefined)
+2025-03-06 15:02:39 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:02:39 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:33:12 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:33:12 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:33:27 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:33:29 [ERROR]: 获取地址数据失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:33:39 [ERROR]: 获取地址数据失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:33:42 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:33:42 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:33:51 [ERROR]: 获取地址数据失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:33:57 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:33:58 [ERROR]: 获取地址数据失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:34:11 [ERROR]: 获取地址数据失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:34:12 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:34:12 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:34:27 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:34:42 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:34:42 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:34:57 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:35:12 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:35:12 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:35:27 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:35:42 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:35:42 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:35:57 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:36:12 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:36:12 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:36:27 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:36:42 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:36:42 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:36:57 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:37:12 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:37:12 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:37:27 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:37:42 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:37:42 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:37:57 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:38:12 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:38:12 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:38:27 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:38:42 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:38:42 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:38:57 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:39:12 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:39:12 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:39:27 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:39:42 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:39:42 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:39:57 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:40:12 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:40:12 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:40:27 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:40:42 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:40:42 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:40:57 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:41:12 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:41:12 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:41:27 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:41:42 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:41:42 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:41:58 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:42:12 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:42:12 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:42:28 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:42:43 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:42:43 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:42:58 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:43:13 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:43:13 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:43:28 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:43:43 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:43:43 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:43:58 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:44:13 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:44:13 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:44:28 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:44:43 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:44:43 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:44:58 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:45:13 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:45:13 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:45:28 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:45:43 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:45:43 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:45:58 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:46:13 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:46:13 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:46:28 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:46:43 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:46:43 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:46:58 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:47:13 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:47:13 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:47:28 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:47:43 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:47:43 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:47:58 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:48:13 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:48:13 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:48:28 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:48:43 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:48:43 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:48:58 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:49:13 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:49:13 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:49:28 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:49:43 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:49:43 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:49:58 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:50:13 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:50:13 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:50:28 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:50:43 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:50:43 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:50:58 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:51:13 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:51:13 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:51:28 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:51:43 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:51:43 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:51:58 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:52:13 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:52:13 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:52:28 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:52:43 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:52:43 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:52:58 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:53:13 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:53:13 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:53:28 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:53:43 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:53:43 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:53:58 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:54:13 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:54:13 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:54:28 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:54:43 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:54:43 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:54:58 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:55:13 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:55:13 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:55:28 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:55:43 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:55:43 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:55:58 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:56:13 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:56:13 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:56:28 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:56:43 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:56:43 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:56:58 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:57:13 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:57:13 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:57:28 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:57:43 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:57:43 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:57:58 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:58:13 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:58:13 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:58:28 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:58:43 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:58:43 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:58:58 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:59:13 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:59:13 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:59:28 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 15:59:43 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:59:43 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 15:59:58 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 16:00:13 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:00:13 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:00:28 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 16:00:43 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:00:43 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:00:58 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 16:01:13 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:01:13 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:01:28 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 16:01:43 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:01:43 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:01:58 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 16:02:13 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:02:13 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:02:28 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 16:02:43 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:02:43 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:02:58 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 16:03:13 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:03:13 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:03:28 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 16:03:43 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:03:43 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:03:58 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 16:04:13 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:04:13 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:04:28 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 16:04:43 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:04:43 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:04:58 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 16:05:13 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:05:13 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:05:28 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 16:05:43 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:05:43 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:05:58 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 16:06:13 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:06:13 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:06:28 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 16:06:43 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:06:43 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:06:58 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 16:07:13 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:07:13 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:07:28 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 16:07:43 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:07:43 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:07:58 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 16:08:13 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:08:13 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:08:28 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 16:08:43 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:08:43 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:08:58 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 16:09:13 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:09:13 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:09:28 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 16:09:43 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:09:43 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:09:58 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 16:10:13 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:10:13 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:10:28 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 16:10:43 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:10:43 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:10:58 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 16:11:13 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:11:13 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:11:28 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 16:11:43 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:11:43 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:11:58 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 16:12:13 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 16:12:13 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:13:07 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:13:07 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:13:22 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:13:37 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:13:37 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:13:52 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:14:07 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:14:07 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:14:22 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:14:37 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:14:37 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:14:52 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:15:07 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:15:07 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:15:22 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:15:37 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:15:37 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:15:52 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:16:07 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:16:07 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:16:22 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:16:37 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:16:37 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:16:52 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:17:07 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:17:07 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:17:22 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:17:37 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:17:37 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:17:52 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:18:07 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:18:07 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:18:22 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:18:37 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:18:37 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:18:52 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:19:07 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:19:07 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:19:22 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:19:37 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:19:37 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:19:52 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:20:07 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:20:07 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:20:22 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:20:37 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:20:37 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:20:52 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:21:07 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:21:07 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:21:22 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:21:37 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:21:37 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:21:52 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:22:07 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:22:07 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:22:22 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:22:37 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:22:37 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:22:52 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:23:07 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:23:07 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:23:22 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:23:37 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:23:37 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:23:52 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:24:07 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:24:07 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:24:22 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:24:37 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:24:37 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:24:52 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:25:07 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:25:07 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:25:22 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:25:37 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:25:37 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:25:52 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:26:07 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:26:07 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:26:22 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:26:37 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:26:37 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:26:52 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:27:07 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:27:07 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:27:22 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:27:37 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:27:37 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:27:52 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:28:07 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:28:07 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:28:22 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:28:37 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:28:37 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:28:52 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:29:07 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:29:07 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:29:22 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:29:37 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:29:37 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:29:52 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:30:07 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:30:07 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:30:22 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:31:32 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:31:32 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:31:47 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:31:48 [ERROR]: 获取地址数据失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:32:02 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:32:02 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:32:17 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:32:32 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:32:32 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:32:47 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:33:02 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:33:02 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:33:17 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:33:32 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:33:32 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:33:47 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:34:02 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:34:02 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:34:18 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:34:32 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:34:32 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:34:48 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:35:03 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:35:03 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:35:18 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:35:33 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:35:33 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:35:48 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:36:03 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:36:03 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:36:18 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:36:33 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:36:33 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:36:48 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:37:03 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:37:03 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:37:18 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:37:33 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:37:33 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:37:48 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:38:03 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:38:03 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:38:18 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:39:05 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:39:05 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:39:20 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:39:22 [ERROR]: 获取地址数据失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:39:35 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:39:35 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:39:45 [ERROR]: 获取地址数据失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:39:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:39:58 [ERROR]: 获取地址数据失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:40:05 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:40:05 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:40:10 [ERROR]: 获取地址数据失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:40:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:40:22 [ERROR]: 获取地址数据失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:40:35 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:40:35 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:40:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:41:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:41:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:41:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:41:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:41:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:41:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:42:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:42:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:42:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:42:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:42:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:42:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:43:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:43:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:43:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:43:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:43:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:43:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:44:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:44:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:44:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:44:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:44:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:44:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:45:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:45:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:45:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:45:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:45:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:45:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:46:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:46:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:46:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:46:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:46:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:46:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:47:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:47:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:47:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:47:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:47:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:47:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:48:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:48:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:48:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:48:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:48:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:48:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:49:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:49:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:49:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:49:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:49:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:49:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:50:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:50:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:50:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:50:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:50:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:50:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:51:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:51:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:51:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:51:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:51:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:51:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:52:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:52:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:52:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:52:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:52:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:52:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:53:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:53:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:53:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:53:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:53:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:53:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:54:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:54:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:54:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:54:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:54:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:54:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:55:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:55:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:55:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:55:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:55:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:55:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:56:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:56:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:56:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:56:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:56:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:56:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:57:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:57:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:57:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:57:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:57:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:57:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:58:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:58:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:58:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:58:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:58:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:58:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:59:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:59:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:59:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 18:59:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:59:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 18:59:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:00:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:00:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:00:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:00:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:00:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:00:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:01:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:01:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:01:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:01:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:01:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:01:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:02:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:02:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:02:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:02:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:02:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:02:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:03:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:03:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:03:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:03:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:03:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:03:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:04:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:04:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:04:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:04:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:04:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:04:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:05:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:05:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:05:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:05:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:05:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:05:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:06:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:06:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:06:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:06:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:06:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:06:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:07:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:07:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:07:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:07:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:07:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:07:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:08:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:08:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:08:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:08:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:08:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:08:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:09:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:09:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:09:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:09:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:09:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:09:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:10:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:10:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:10:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:10:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:10:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:10:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:11:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:11:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:11:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:11:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:11:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:11:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:12:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:12:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:12:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:12:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:12:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:12:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:13:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:13:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:13:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:13:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:13:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:13:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:14:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:14:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:14:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:14:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:14:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:14:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:15:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:15:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:15:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:15:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:15:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:15:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:16:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:16:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:16:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:16:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:16:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:16:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:17:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:17:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:17:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:17:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:17:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:17:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:18:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:18:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:18:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:18:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:18:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:18:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:19:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:19:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:19:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:19:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:19:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:19:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:20:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:20:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:20:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:20:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:20:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:20:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:21:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:21:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:21:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:21:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:21:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:21:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:22:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:22:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:22:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:22:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:22:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:22:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:23:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:23:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:23:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:23:36 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:23:36 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:23:51 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:24:06 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:24:06 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:24:21 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:25:03 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:25:03 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:25:18 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:25:33 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:25:33 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:25:48 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:26:03 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:26:03 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:26:18 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:26:33 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:26:33 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:26:48 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:27:03 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:27:03 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:27:18 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:27:33 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:27:33 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:27:48 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:28:03 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:28:03 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:28:18 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:28:33 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:28:33 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:28:48 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:29:03 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:29:03 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:29:18 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:29:33 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:29:33 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:29:48 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:30:03 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:30:03 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:30:18 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:30:33 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:30:33 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:30:48 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:31:03 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:31:03 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:31:18 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms
+2025-03-06 19:31:33 [ERROR]: MongoDB 连接失败: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:31:33 [ERROR]: MongoDB连接错误: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-06 19:31:48 [ERROR]: 初始化数据加载失败: Operation `addresses.find()` buffering timed out after 10000ms

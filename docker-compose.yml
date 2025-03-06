@@ -8,7 +8,9 @@ services:
     environment:
       - MONGODB_URI=mongodb://mongodb:27017/map_annotation
     depends_on:
-      - mongodb
+      mongodb:
+        condition: service_healthy
+    restart: always
 
   mongodb:
     image: mongo:latest
@@ -16,6 +18,13 @@ services:
       - "27017:27017"
     volumes:
       - mongodb_data:/data/db
+    restart: always
+    healthcheck:
+      test: ["CMD", "mongosh", "--eval", "db.adminCommand('ping')"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 30s
 
 volumes:
   mongodb_data:
