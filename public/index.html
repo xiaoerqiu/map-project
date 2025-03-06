@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>地图标绘系统</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <!-- 百度地图API -->
+    <script type="text/javascript" src="https://api.map.baidu.com/api?v=3.0&ak=gs3yvswcNTXmqZcUWPPILcdGzQRNs7y2"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>地图标绘系统</h1>
+        </header>
+        
+        <div class="upload-section">
+            <h2>上传Excel文件</h2>
+            <p>请上传包含地址信息的Excel文件（必须包含address列）</p>
+            <div class="download-sample">
+                <a href="./examples/sample.xlsx" download>下载示例Excel文件</a>
+            </div>
+            <form id="upload-form" enctype="multipart/form-data">
+                <div class="file-input-container">
+                    <input type="file" id="excel-file" name="file" accept=".xlsx,.xls">
+                    <button type="button" id="upload-btn">上传并解析</button>
+                </div>
+            </form>
+            <div id="upload-status"></div>
+        </div>
+        
+        <div class="content">
+            <div class="map-container">
+                <div id="map"></div>
+            </div>
+            
+            <div class="data-list">
+                <h3>地址列表</h3>
+                <div id="address-list"></div>
+            </div>
+        </div>
+    </div>
+    
+    <script src="./js/main.js"></script>
+</body>
+</html>
